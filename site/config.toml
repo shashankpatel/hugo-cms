@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "http://hugo.shashankpatel.com/"
 languageCode = "en-us"
 languageLang = "en"
 title = "Homepage"
